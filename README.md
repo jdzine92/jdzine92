@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jordan, @jdzine92
-- 👀 I’m interested in Python, C, Graphics design, Web Developement (HTML/CSS)
-- 🌱 I’m currently learning Python and C
+- 👀 Intermediate knowledge of HTML, CSS, JavaScript and Python
+- 🌱 I’m currently learning full stack development (HTML, CSS, JavaScript, node.js, Git, Python, PHP, Java, C#, SQL)
 - 💞️ I’m looking to collaborate on - Nothing at the moment, im still learning !
 - 📫 How to reach me - jdzine@hotmail.co.uk
 
