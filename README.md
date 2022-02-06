@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jordan, @jdzine92
-- ✏️ Photoshop / Illustrator Graphics Designer
-- ⚡ Intermediate knowledge of HTML, CSS, JavaScript and Python
-- 🌱  Currently learning full stack development (HTML, CSS, JavaScript, React, node.js, Python, PHP, Java, C#, SQL, Git, CLI, Netlify)
+- ✏️ Graphics Designer
+- ⚡ Intermediate knowledge of HTML, CSS, JavaScript, Python and C#
+- 🌱  Currently learning full stack development (React, node.js, PHP, Java, SQL, Git, CLI, Netlify)
 - 💞️ Looking to collaborate on - Nothing at the moment, im still learning !
 - 📫 How to reach me - jdzine@hotmail.co.uk
 
