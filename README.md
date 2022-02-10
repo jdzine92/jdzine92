@@ -2,7 +2,7 @@
 - ✏️ Graphics Designer
 - ⚡ Intermediate knowledge of HTML, CSS, JavaScript, Python and C#
 - 🌱  Currently learning full stack development (React, node.js, PHP, Java, SQL, Git, CLI, Netlify)
-- 💞️ Looking to collaborate on - Nothing at the moment, im still learning !
+- :gem: Currently working on: C# GTA ASCII game. (Check it out in my repo!)
 - 📫 How to reach me - jdzine@hotmail.co.uk
 
 <!---
