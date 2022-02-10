@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jordan, @jdzine92
-- ✏️ Graphics Designer
 - ⚡ Intermediate knowledge of HTML, CSS, JavaScript, Python and C#
+- ✏️ Freelance Graphics Designer
 - 🌱  Currently learning full stack development (React, node.js, PHP, Java, SQL, Git, CLI, Netlify)
 - :gem: Currently working on: C# GTA ASCII game. Check it out in my repo!
 - :clipboard: FREE cheat sheets for many languages available in Cheat-Sheets repo.
