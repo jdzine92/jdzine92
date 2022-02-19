@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jordan, @jdzine92
-- ⚡ HTML/CSS, JavaScript, Python, C#, PHP
+- ⚡ Full Stack Developer - HTML/CSS, JS, Python, C#, PHP
 - ✏️ Freelance Graphics Designer
 - 🌱  Currently learning full stack development (React, node.js, PHP, Java, SQL, Git, CLI, Netlify)
 - :gem: Currently working on: C# GTA ASCII game. Check it out in my repo!
