@@ -1,4 +1,4 @@
-:large_blue_circle: jordanmills.uk <br>
+:large_blue_circle: www.jordanmills.uk <br>
 ⚡ Full Stack Developer <br>
 ✏️ Freelance Graphics Designer <br>
 🌱  Currently learning: React, Redux, Express <br>
